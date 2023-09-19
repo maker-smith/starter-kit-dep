@@ -1,2 +1,2 @@
 ## IoT Starter Kit
-### Beginner Projects
+### Intermediate Projects

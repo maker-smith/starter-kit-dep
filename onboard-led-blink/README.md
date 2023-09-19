@@ -1,6 +1,9 @@
 ## Onboard LED Blink
 This code will blink the blue LED on the microcontroller
 
+## Supplies
+- Microcontroller
+
 ### Instructions
 1. Make sure your microcontroller is connected to your computer and selected in Thonny (per the [getting started guide](https://github.com/modern-maker))
 2. In Thonny create a new file

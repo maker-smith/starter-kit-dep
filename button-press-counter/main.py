@@ -8,7 +8,7 @@ def button1_pressed(change):
     button_pressed_count += 1
 
 
-button = Pin(14, Pin.IN, Pin.PULL_DOWN)
+button = Pin(19, Pin.IN, Pin.PULL_DOWN)
 button.irq(handler=button1_pressed, trigger=Pin.IRQ_FALLING)
 
 button_pressed_count_old = 0

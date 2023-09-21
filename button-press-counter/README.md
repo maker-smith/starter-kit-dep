@@ -20,6 +20,8 @@ Blink the LED whenever the microcontroller is powered on
 2. Select "MicroPython device" in the pop-up screen
 3. In the "File name" field enter `main.py` and click "OK"
 
+## Next Project
+- [Button Press Debounce](https://github.com/modern-maker/starter-kit/tree/intermediate/button-press-debounce)
 
 ### Button Bouncing
 Button bouncing occurs when a button (or switch) is transitioning between the open and closed state. During this transition electrons are able to jump the gap because the connection is so close which, to a computer, translates to multiple button presses.

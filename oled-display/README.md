@@ -11,8 +11,9 @@ Print message on OLED display
 ### Instructions
 1. Make sure your microcontroller is connected to your computer and selected in Thonny (per the [getting started guide](https://github.com/modern-maker))
 2. In Thonny create a new file
-3. Copy/paste the contents of [`main.py`](main.py) into the new file
-4. Press the run icon in Thonny
+3. Copy/paste the contents of [`ssd1306.py`](ssd1306.py) and save as a file of the same name on the microcontroller
+4. Copy/paste the contents of [`main.py`](main.py) into the new file
+5. Press the run icon in Thonny
 
 ### Run Script Automatically
 Blink the LED whenever the microcontroller is powered on

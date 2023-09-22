@@ -6,7 +6,7 @@ Output how many times the button has been pressed (it won't increment perfectly 
 - Push Button
 
 ## Wiring Diagram
-![push_button_sketch](https://github.com/modern-maker/starter-kit/assets/8736328/fd3ea7ea-c436-4ca7-9885-303af5350c63)
+![push_button_sketch](https://github.com/modern-maker/starter-kit/assets/8736328/fb3a5a6b-15af-417f-853c-03197246d5df)
 
 ### Instructions
 1. Make sure your microcontroller is connected to your computer and selected in Thonny (per the [getting started guide](https://github.com/modern-maker))

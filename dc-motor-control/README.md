@@ -9,7 +9,7 @@ This code will use pulse width modulation (PWM) to control a low voltage bi-dire
 - DC Motor
 
 ## Wiring Diagram
-![dc_motor_sketch](https://github.com/modern-maker/starter-kit/assets/8736328/5a5cbf20-6375-491c-bf18-511ade0c9ba1)
+![dc_motor_sketch](https://github.com/modern-maker/starter-kit/assets/8736328/81bb8f59-a8d8-403c-aaff-896586f3142e)
 
 ### Instructions
 1. Make sure your microcontroller is connected to your computer and selected in Thonny (per the [getting started guide](https://github.com/modern-maker))
